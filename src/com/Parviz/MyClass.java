@@ -11,7 +11,7 @@ public class MyClass {
         System.setProperty("webdriver.chrome.driver","/Users/parvizalasgarov/Documents/SeleniumDependecies/drivers/chromedriver");
         WebDriver driver =new ChromeDriver();
 
-        driver.get("https://www.google.com/");
+        driver.get("https://www.amazon.com/");
 //
 //        System.setProperty("webdriver.gecko.driver","/Users/parvizalasgarov/Documents/SeleniumDependecies/drivers/geckodriver");
 //        WebDriver driver =new FirefoxDriver();
